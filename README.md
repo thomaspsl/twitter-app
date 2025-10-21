@@ -11,8 +11,7 @@
   [![Dart](https://img.shields.io/badge/Dart-x.x-00B4AB)](https://dart.dev)
   [![Swift](https://img.shields.io/badge/Swift-x.x-F05138)](https://www.apple.com/fr/swift)
 
-  [Contributors](#-contributors) • [Description](#-description) • [How To Use](#-how-to-use) • [Key Features](#-key-features)
-  • [Emailware](#-emailware) • [Credits](#-credits) • [Support](#-support) • [License](#-license)
+  [Contributors](#-contributors) • [Description](#-description) • [How To Use](#-how-to-use) • [Key Features](#-key-features) • [Emailware](#-emailware) • [Credits](#-credits) • [Support](#-support) • [License](#-license)
 
   <!-- ![HelpDesk _ D_pannage Informatique En Ligne](https://github.com/user-attachments/assets/558867fa-cbad-4ced-853c-501dfd3d4ba1) -->
 
@@ -25,8 +24,6 @@
   ![Contributors](https://contrib.rocks/image?repo=thomaspsl/twitter-app)
 
   ## 📚 Description
-
-  ...
 
   This application is an exercise in recreating the style of the old Twitter design, built with Kotlin. It aims to reproduce the visual layout and interface structure of the original platform while applying modern Android design principles and best practices in Kotlin development.
 
