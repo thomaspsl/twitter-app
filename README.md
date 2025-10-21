@@ -29,8 +29,7 @@
 
   ## 🚀 How To Use
 
-  To clone and run this application, you'll need [Git](https://git-scm.com) (which comes with [npm](https://www.npmjs.com)) installed on your computer.
-  From your command line:
+  To clone and run this application, you'll need [Git](https://git-scm.com) (which comes with [npm](https://www.npmjs.com)) installed on your computer. From your command line:
 
   ```bash
   # Clone this repository
