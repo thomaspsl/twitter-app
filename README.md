@@ -51,8 +51,7 @@
 
   ## 📮 Emailware
 
-  Twitter is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way,
-  I'd like you send me an email at <contact@thomaspsl.fr> about anything you'd want to say about this web software. I'd really appreciate it!
+  Twitter is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <contact@thomaspsl.fr> about anything you'd want to say about this web software. I'd really appreciate it!
 
   ## ✨ Credits
 
