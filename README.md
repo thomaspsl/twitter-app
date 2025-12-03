@@ -4,14 +4,14 @@
   
   # Twitter Project
 
-  #### It's a mobile application that uses the design of the old Twitter, built with [Kotlin](https://kotlinlang.org).
+  It's a mobile application that uses the design of the old Twitter, built with [Kotlin](https://kotlinlang.org).
 
   [![Kotlin](https://img.shields.io/badge/Kotlin-x.x-af2df5)](https://kotlinlang.org)
 
   [![Dart](https://img.shields.io/badge/Dart-x.x-00B4AB)](https://dart.dev)
   [![Swift](https://img.shields.io/badge/Swift-x.x-F05138)](https://www.apple.com/fr/swift)
 
-  [Contributors](#-contributors) • [Description](#-description) • [How To Use](#-how-to-use) • [Key Features](#-key-features) • [Emailware](#-emailware) • [Credits](#-credits) • [Support](#-support) • [License](#-license)
+  [Contributors](#-contributors) • [Description](#-description) • [How To Use](#-how-to-use) • [Key Features](#-key-features) • [Credits](#-credits) • [Support](#-support) • [License](#-license)
 
   <!-- ![HelpDesk _ D_pannage Informatique En Ligne](https://github.com/user-attachments/assets/558867fa-cbad-4ced-853c-501dfd3d4ba1) -->
 
@@ -48,10 +48,6 @@
   ## 🔑 Key Features
 
   ...
-
-  ## 📮 Emailware
-
-  Twitter is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <contact@thomaspsl.fr> about anything you'd want to say about this web software. I'd really appreciate it!
 
   ## ✨ Credits
 
